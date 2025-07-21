@@ -154,4 +154,4 @@ defineProps({
 </template>
 ```
 
-## Setting SEO with useSeoMetaO
+## [Setting SEO with useSeoMetaO](https://unhead.unjs.io/docs/head/api/composables/use-seo-meta)
